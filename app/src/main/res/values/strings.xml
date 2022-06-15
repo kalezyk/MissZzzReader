@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">大钊阅读</string>
+    <string name="app_name">KReder</string>
 
-    <string name="anti_hijacking_tips_home">大钊阅读切换至后台运行</string>
-    <string name="anti_hijacking_tips">大钊阅读切换至后台运行，当前大钊阅读所有，请注意！</string>
+    <string name="anti_hijacking_tips_home">KReader切换至后台运行</string>
+    <string name="anti_hijacking_tips">KReader切换至后台运行，当前大钊阅读所有，请注意！</string>
 
     <string name="sys_file_provider">com.zhao.myreader.fileprovider</string>
 
@@ -18,7 +18,7 @@
 
 
     <string name="font_using">正在使用</string>
-    <string name="font_example">钊</string>
+    <string name="font_example">K</string>
     <string name="font_use">立即使用</string>
 
     <string name="font">字体</string>
